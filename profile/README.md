@@ -1,12 +1,5 @@
-## Hi there 👋
+## Ola 👋
 
-<!--
+Este projeto visa o desenvolvimento e produção de uma ferramenta de compilação da pseudo-linguagem português estruturado (portugol) para auxiliar estudantes brasileiros iniciando em atividades de programação.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O Projeto pretende possibilitar a geração de códigos em Pascal, C, C++, Python e Java a partir do código elaborado pelos alunos em Portugol com o objetivo de facilitar o aprendizado nestas novas linguagens, que provavelmente serão as próximas linguagens a serem aprendidas nos cursos na área de Computação e Programação.
