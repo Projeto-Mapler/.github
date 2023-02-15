@@ -14,6 +14,4 @@
 > [![UFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ufma.png?raw=true)](https://portalpadrao.ufma.br/)
 > [![IFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ifma-short.png?raw=true)](https://portal.ifma.edu.br/)
 
-Este projeto visa o desenvolvimento e produção de uma ferramenta de compilação da pseudo-linguagem português estruturado (portugol) para auxiliar estudantes brasileiros iniciando em atividades de programação.
-
-O Projeto pretende possibilitar a geração de códigos em Pascal, C, C++, Python e Java a partir do código elaborado pelos alunos em Portugol com o objetivo de facilitar o aprendizado nestas novas linguagens, que provavelmente serão as próximas linguagens a serem aprendidas nos cursos na área de Computação e Programação.
+Este projeto visa o desenvolvimento e produção de uma ferramenta de desenvolvimento de fluxogramas e compilação da pseudo-linguagem português estruturado (portugol) para auxiliar estudantes brasileiros iniciando em atividades de programação.
