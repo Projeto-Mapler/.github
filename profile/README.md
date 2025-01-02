@@ -9,9 +9,8 @@
 
 # Instituições
 
-> O projeto Mapler tem como origem a Universidade Federal do Maranhão e o Instituto Federal De Educação, Ciência e Tecnologia do Maranhão.
+> O projeto Mapler é mantido por alunos e professores do Instituto Federal De Educação, Ciência e Tecnologia do Maranhão.
 >
-> [![UFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ufma.png?raw=true)](https://portalpadrao.ufma.br/)
 > [![IFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ifma-short.png?raw=true)](https://portal.ifma.edu.br/)
 
 Este projeto visa o desenvolvimento e produção de uma ferramenta de desenvolvimento de fluxogramas e compilação da pseudo-linguagem português estruturado (portugol) para auxiliar estudantes brasileiros iniciando em atividades de programação.
